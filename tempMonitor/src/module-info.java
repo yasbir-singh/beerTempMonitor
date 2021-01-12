@@ -1,0 +1,3 @@
+module tempMonitor {
+	exports tempMonitor;
+}
