@@ -24,3 +24,8 @@ data1.txt contains continuously increasing temperature with every 2 seconds.
 # printingOutput.java
 this class will compare our collected data to our safe range of temperature and if the temperature shifts from that range it will generate a warning.
 
+
+# What you could have done better if we had given you 2 months to build this solution, instead of 2 days.
+* I could implement a good GUI with this.
+* I could have added an option for different types of beer in the same container.
+* In two months could have done pretty much anything.
