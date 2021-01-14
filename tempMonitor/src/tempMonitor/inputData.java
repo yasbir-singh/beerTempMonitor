@@ -40,12 +40,12 @@ public class inputData {
     
     
     // this method will read input form user 
-    public void inputFromUser(int t) {
+    public void inputFromUser(int numberOfBeer) {
     	System.out.printf("Enter temprature of each container manually starting from 1st: ");
-    	for(int i=0; i<t; i++) {
+    	for(int i=0; i<numberOfBeer; i++) {
     		this.vctr.add(scc.nextFloat());
     	}
-    	this.count = t;
+    	this.count = numberOfBeer;
     }
     
 }
