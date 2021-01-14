@@ -34,7 +34,7 @@ public class firstClass extends Thread {
 		
 		inputData data = new inputData();
 		data.readFromFile();
-		
+		// data.inputFromUser(n);    // to input data from user
 		
 		// printing our data
 		printingOutput output = new printingOutput();
