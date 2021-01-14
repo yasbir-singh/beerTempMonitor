@@ -25,6 +25,9 @@ data1.txt contains continuously increasing temperature with every 2 seconds.
 # printingOutput.java
 this class will compare our collected data to our safe range of temperature and if the temperature shifts from that range it will generate a warning.
 
+# testTemperature.java
+* this class is performing automatic testing of the project specifically my checkTemprature method in class printingOutput.java
+* i have added one case to test this code
 
 # What you could have done better if we had given you 2 months to build this solution, instead of 2 days.
 * I could implement a good GUI with this.
