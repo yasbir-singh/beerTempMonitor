@@ -10,6 +10,7 @@ data1.txt contains continuously increasing temperature with every 2 seconds.
 # firstClass.java
 * FirstClass.java is our main class which contains the main function:
 * User has to first put the total number of different beer the truck is going to carry, and then put minimum and maximum values of temperature respectively.
+* Please enter 5 as different number of beer as out data1.txt file is prepared accouding to the example in the problem statement i.e ( different type of beer = 5)
 
 
 # beerType.java
